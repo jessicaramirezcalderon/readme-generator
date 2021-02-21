@@ -6,6 +6,9 @@ ReadMe Generator
 
 This application allows the user to generate a ReadMe md file for their projects using NodeJS on the command line. 
 
+Sample demo (you might need to be logged into gmail to view)  
+https://drive.google.com/file/d/1GebGTXw4WkVG1wpAKnrxZ2uJbRfqSJD3/view 
+
 ## Table of contents
 
 <!--ts-->
